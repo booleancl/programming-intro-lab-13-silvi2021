@@ -1,0 +1,5 @@
+C:/Users/villa/intro_dev/programming-intro-lab-13-silvi2021/scripts/00-createBigCitiesDataBase.sql
+
+C:/Users/villa/intro_dev/programming-intro-lab-13-silvi2021/scripts/01-createCitiesTable.sql
+
+C:/Users/villa/intro_dev/programming-intro-lab-13-silvi2021/scripts/02-steedCitiesTable.sql
