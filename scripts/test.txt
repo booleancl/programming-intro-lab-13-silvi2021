@@ -3,3 +3,23 @@ C:/Users/villa/intro_dev/programming-intro-lab-13-silvi2021/scripts/00-createBig
 C:/Users/villa/intro_dev/programming-intro-lab-13-silvi2021/scripts/01-createCitiesTable.sql
 
 C:/Users/villa/intro_dev/programming-intro-lab-13-silvi2021/scripts/02-steedCitiesTable.sql
+
+C:/Users/villa/intro_dev/programming-intro-lab-13-silvi2021/scripts/03-SelectNamePopulation.sql
+
+C:/Users/villa/intro_dev/programming-intro-lab-13-silvi2021/scripts/04-SelectMin.sql
+
+C:/Users/villa/intro_dev/programming-intro-lab-13-silvi2021/scripts/05-SelectOrder.sql
+
+C:/Users/villa/intro_dev/programming-intro-lab-13-silvi2021/scripts/06-SelectWhere.sql
+
+C:/Users/villa/intro_dev/programming-intro-lab-13-silvi2021/scripts/07-Density.sql
+
+C:/Users/villa/intro_dev/programming-intro-lab-13-silvi2021/scripts/08-country.sql
+
+C:/Users/villa/intro_dev/programming-intro-lab-13-silvi2021/scripts/08-count.sql
+
+C:/Users/villa/intro_dev/programming-intro-lab-13-silvi2021/scripts/09-sum.sql
+
+C:/Users/villa/intro_dev/programming-intro-lab-13-silvi2021/scripts/10-addindex.sql
+
+C:/Users/villa/intro_dev/programming-intro-lab-13-silvi2021/scripts/11-dropindex.sql
