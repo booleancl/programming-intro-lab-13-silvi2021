@@ -23,3 +23,13 @@ C:/Users/villa/intro_dev/programming-intro-lab-13-silvi2021/scripts/09-sum.sql
 C:/Users/villa/intro_dev/programming-intro-lab-13-silvi2021/scripts/10-addindex.sql
 
 C:/Users/villa/intro_dev/programming-intro-lab-13-silvi2021/scripts/11-dropindex.sql
+
+C:/Users/villa/intro_dev/programming-intro-lab-13-silvi2021/scripts/12-createWritersTable.sql
+}
+C:/Users/villa/intro_dev/programming-intro-lab-13-silvi2021/data/escritores.csv
+
+C:/Users/villa/intro_dev/programming-intro-lab-13-silvi2021/scripts/13-seedWritersTable.sql
+
+C:/Users/villa/intro_dev/programming-intro-lab-13-silvi2021/scripts/14-joingTable.sql
+
+C:/Users/villa/intro_dev/programming-intro-lab-13-silvi2021/scripts/15-subquery.sql
