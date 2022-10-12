@@ -33,3 +33,7 @@ C:/Users/villa/intro_dev/programming-intro-lab-13-silvi2021/scripts/13-seedWrite
 C:/Users/villa/intro_dev/programming-intro-lab-13-silvi2021/scripts/14-joingTable.sql
 
 C:/Users/villa/intro_dev/programming-intro-lab-13-silvi2021/scripts/15-subquery.sql
+
+C:/Users/villa/intro_dev/programming-intro-lab-13-silvi2021/scripts/16-sum.sql
+
+C:/Users/villa/intro_dev/programming-intro-lab-13-silvi2021/scripts/17-groupbycountry.sql
